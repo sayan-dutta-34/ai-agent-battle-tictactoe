@@ -1,0 +1,5 @@
+depth,result,avg_nodes_evaluated,avg_nodes_pruned,avg_time
+1,TITAN dominates (3W/2L/0D),39.0,0.0,0.000352
+2,All Draws,285.0,0.0,0.002113
+3,All Draws,932.6,572.4,0.006028
+4,All Draws,3357.2,1296.4,0.021344
